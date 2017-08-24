@@ -17,7 +17,7 @@ For a complete CSV file example see [stations_474.csv](https://github.com/bclayt
 
 #### Runing Program:
 To run the Python program:
-'python csv2geojson.py'
+`python csv2geojson.py`
 The program will ask for the CSV file to read in, enter the name of the CSV file using the keyboard.
 The output file name will be the input CSV file name with a .geojson extension.
 
