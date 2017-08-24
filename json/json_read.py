@@ -1,44 +1,62 @@
+#!/bin/python
 
 
+#######################################
+#
+#   Author: Brandon Clayton
+#
+#
+#######################################
+
+
+######################################
+#
+#........... Import ..................
 import json
 from pprint import pprint
 import os
 os.system('clear')
+#-------- End Import ----------------
+#
+#####################################
 
 
 
-
-
+####################################################################
+#
 #.................... Read In simple_json.json File ................
 print '\n\n\n -------------- simple.json ------------------ \n'
-Fjson = '1-simple.json'
-with open(Fjson) as data_file:
-  json_data = json.load(data_file)
+Fjson = '1-simple.json'                 # File name to read in
+with open(Fjson) as data_file:          # Open file 
+  json_data = json.load(data_file)      # Read file in as JSOn
 
-first_name = json_data['first_name']
-last_name  = json_data['last_name']
-online     = json_data['online']
-year       = json_data['year']
+first_name = json_data['first_name']    # Get value for first_name
+last_name  = json_data['last_name']     # Get value for last_name
+online     = json_data['online']        # Get value for online
+year       = json_data['year']          # Get value for year
 
 print ' Raw File Read In: ' 
-pprint(json_data) 
-print '\n First Name: %s'%first_name
+pprint(json_data)                       # Print raw read in 
+print '\n First Name: %s'%first_name    # Print values
 print ' Last Name : %s'%last_name
 print ' Online    : %s'%online
 print ' Year      : %s'%year
 
 print '\n ---------- End simple.json ----------------- \n'
 #-----------------------------------------------------------------
+#
+####################################################################
 
 
-
+####################################################################
+#
 #................... Read In nested_json.json File ...............
 print '\n\n\n -------------- nested.json ------------------ \n'
-Fjson = '2-nested.json'
-with open(Fjson) as data_file:
-  json_data = json.load(data_file)
+Fjson = '2-nested.json'                 # File name to read in 
+with open(Fjson) as data_file:          # Open file
+  json_data = json.load(data_file)      # Read file in as JSON
 
-will       = json_data['Will']
+will       = json_data['Will']                    # Get values
 w_username = json_data['Will']['username']        # OR will['username']
 w_year     = will['year']                         # OR json_data['will']['year']
 deanna     = json_data['Deanna']
@@ -56,8 +74,12 @@ print ' Deanna Year     : %s'%d_year
 
 print '\n ---------- End nested.json ----------------- \n'
 #----------------------------------------------------------------
+#
+####################################################################
 
 
+####################################################################
+#
 #................... Read In nested_array_json.json File ...............
 print '\n\n\n -------------- nested_array.json ------------------ \n'
 Fjson = '3-nested_array.json'
@@ -90,9 +112,13 @@ for js in range(nsoc):
 
 print '\n ---------- End nested_array.json ----------------- \n'
 #----------------------------------------------------------------
+#
+####################################################################
 
 
 
+####################################################################
+#
 #................... Read In nested_array2_json.json File ...............
 print '\n\n\n -------------- nested_array2.json ------------------ \n'
 Fjson = '4-nested_array2.json'
@@ -131,6 +157,8 @@ for user in users:
   print '\n'
 print '\n ---------- End nested_array2.json ----------------- \n'
 #----------------------------------------------------------------
+#
+####################################################################
 
 
 
