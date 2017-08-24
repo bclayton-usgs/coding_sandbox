@@ -38,3 +38,6 @@ A GeoJSON FeatureCollection type with a LineString and a Point geometry type
 
 ### 12-FeatureCollection_githubStyling.geojson
 A GeoJSON FeatureCollection type with a LineString and a Point geometry with [GitHub styling properties](https://help.github.com/articles/mapping-geojson-files-on-github/#styling-features) for GeoJSON
+
+### 13-stations_474.geojson
+A GeoJSON FeatureCollection with 474 points
