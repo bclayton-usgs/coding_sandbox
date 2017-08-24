@@ -15,20 +15,17 @@ Fjson = '1-simple.json'
 with open(Fjson) as data_file:
   json_data = json.load(data_file)
 
-
-
 first_name = json_data['first_name']
 last_name  = json_data['last_name']
 online     = json_data['online']
-car_year   = json_data['car_year']
-
+year       = json_data['year']
 
 print ' Raw File Read In: ' 
 pprint(json_data) 
 print '\n First Name: %s'%first_name
 print ' Last Name : %s'%last_name
 print ' Online    : %s'%online
-print ' Car Year  : %s'%car_year
+print ' Year      : %s'%year
 
 print '\n ---------- End simple.json ----------------- \n'
 #-----------------------------------------------------------------
@@ -41,21 +38,21 @@ Fjson = '2-nested.json'
 with open(Fjson) as data_file:
   json_data = json.load(data_file)
 
-brandon    = json_data['Brandon']
-b_username = json_data['Brandon']['username']     # OR brandon['username']
-b_year     = brandon['year']                      # OR json_data['brandon']['year']
-melodie    = json_data['Melodie']
-m_username = json_data['Melodie']['username']     # OR melodie['username']
-m_year     = melodie['year']                      # OR json_data['melodie']['year']
+will       = json_data['Will']
+w_username = json_data['Will']['username']        # OR will['username']
+w_year     = will['year']                         # OR json_data['will']['year']
+deanna     = json_data['Deanna']
+d_username = json_data['Deanna']['username']      # OR deanna['username']
+d_year     = deanna['year']                       # OR json_data['deanna']['year']
 
 print ' Raw File Read In : ' 
 pprint(json_data) 
-print '\n Brandon        : %s'%brandon
-print ' Brandon Username : %s'%b_username
-print ' Brandon Year     : %s'%b_year
-print ' Melodie          : %s'%melodie
-print ' Melodie Username : %s'%m_username
-print ' Melodie Year     : %s'%m_year
+print '\n Name          : %s'%will
+print ' Will Username   : %s'%w_username
+print ' Will Year       : %s'%w_year
+print ' Deanna          : %s'%deanna
+print ' Deanna Username : %s'%d_username
+print ' Deanna Year     : %s'%d_year
 
 print '\n ---------- End nested.json ----------------- \n'
 #----------------------------------------------------------------
@@ -102,7 +99,7 @@ Fjson = '4-nested_array2.json'
 with open(Fjson) as data_file:
   json_data = json.load(data_file)
 
-users  = ['Brandon','Melodie']
+users  = ['Will','Deanna']
 nusers = len(users)
 
 print ' Raw File Read In : ' 
