@@ -25,46 +25,47 @@ python csv2geojson.py
 * The output file name will be the input CSV file name with a .geojson extension.
 
 
-
-## 01-Point.geojson
-A simple Point geometery type
-
-## 02-MultiPoint.geojson
-A simple MultiPoint geometry type
-
-## 03-LineString.geojson
-A simple LineString geometry type
-
-## 04-MultiLineString.geojson
-A simple MultiLineString geometry type
-
-## 05-Polygon_noHoles.geojson
-A Polygon geometry type with an exterior ring and no interior ring
-
-## 06-Polygon_holes.geojson
-A Polygon geometry type with an exterior and interior ring
-
-## 07-MultiPolygon.geojson
-A MultiPolygon geometry type with only exterior rings
-
-## 08-GeometryCollection.geojson
-A GeometryCollection of a LineString and a Point
-
-## 09-MultiLineString_Antimeridian.geojson
-A simple example of how to break up a line for the antimeridian
-
-## 10-Feature_Point.geojson
-A GeoJSON Feature type with a Point geometry type
-
-## 11-FeatureCollection
-A GeoJSON FeatureCollection type with a LineString and a Point geometry type 
-
-## 12-FeatureCollection_githubStyling.geojson
-A GeoJSON FeatureCollection type with a LineString and a Point geometry with [GitHub styling properties](https://help.github.com/articles/mapping-geojson-files-on-github/#styling-features) for GeoJSON
-
-## stations_474.csv
+## [stations_474.csv](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/stations_474.csv)
 CSV file of 474 points
 
-## stations_474.geojson
-A GeoJSON FeatureCollection with 474 points
+## [stations_474.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/stations_474.geojson)
+A GeoJSON FeatureCollection with 474 points. GeoJSON file produced using stations_474.csv file and csv2geojson.py Python program.
+
+
+## [01-Point.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/01-Point.geojson)
+A simple Point geometery type
+
+## [02-MultiPoint.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/02-MultiPoint.geojson)
+A simple MultiPoint geometry type
+
+## [03-LineString.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/03-LineString.geojson)
+A simple LineString geometry type
+
+## [04-MultiLineString.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/04-MultiLineString.geojson)
+A simple MultiLineString geometry type
+
+## [05-Polygon_noHoles.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/05-Polygon_noHoles.geojson)
+A Polygon geometry type with an exterior ring and no interior ring
+
+## [06-Polygon_holes.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/06-Polygon_holes.geojson)
+A Polygon geometry type with an exterior and interior ring
+
+## [07-MultiPolygon.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/07-MultiPolygon.geojson)
+A MultiPolygon geometry type with only exterior rings
+
+## [08-GeometryCollection.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/08-GeometryCollection.geojson)
+A GeometryCollection of a LineString and a Point
+
+## [09-MultiLineString_Antimeridian.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/09-MultiLineString_Antimeridian.geojson)
+A simple example of how to break up a line for the antimeridian
+
+## [10-Feature_Point.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/10-Feature_Point.geojson)
+A GeoJSON Feature type with a Point geometry type
+
+## [11-FeatureCollection](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/11-FeatureCollection.geojson)
+A GeoJSON FeatureCollection type with a LineString and a Point geometry type 
+
+## [12-FeatureCollection_githubStyling.geojson](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/12-FeatureCollection_githubStyling.geojson)
+A GeoJSON FeatureCollection type with a LineString and a Point geometry with [GitHub styling properties](https://help.github.com/articles/mapping-geojson-files-on-github/#styling-features) for GeoJSON
+
 
