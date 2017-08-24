@@ -16,11 +16,9 @@ os.system('clear')  # Clear terminal
 #........................ Read In CSV Files .................................
 
 print '\n\n Enter the name of the CSV file'
-#Fsta = raw_input('File name: ')                   # Get name of CSV file
-#print Fsta
+Fsta = raw_input('File name: ')                   # Get name of CSV file
 
-Fsta = '13-stations_474.csv'
-Fsta_in = open(Fsta,'r')                        # Open the CSV file to read                     
+print '\n\n The file %s will be read in \n\n' %Fsta
 
 #..................... Read in Header Line .................................
 head = Fsta_in.readline().split(',')            # Get header line
@@ -66,8 +64,9 @@ Fsta_in.close()                                 # Close file
 
 
 Fjson = Fsta.split('.')[0]+'.geojson'               # Make file name for GeoJSON file, input file name with .geojson extension
-
 Fjson_out = open(Fjson,'w')                         # Open file to write
+
+print '\n\n The output file is: %s \n\n' $Fjson
 
 #...................... Write to GeoJSON File .............................
 # Example of output:
