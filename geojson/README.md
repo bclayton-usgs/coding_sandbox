@@ -6,7 +6,7 @@
 * A python program to convert a CSV file into a FeatureCollection of Points.
 * The CSV file can be in any order but must contain a header line with "name", "lat", and "lon" where name, lat and lon are lower-case.
 
-##### Example:
+#### Example CSV format:
 | name    | lon   | lat  |
 | ----    | ----  | ---- |
 | name00  | -78.7 | 40.9 | 
@@ -15,7 +15,7 @@
 
 For a complete CSV file example see [stations_474.csv](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/stations_474.csv)
 
-##### Runing Program:
+#### Runing Program:
 To run the Python program:
 ``` 
 python csv2geojson.py 

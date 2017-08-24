@@ -1,14 +1,33 @@
 #!/bin/python
 
 
-###########################
+
+#############################################################
+# 
+#       Author: Brandon Clayton
 #
-#......... Import ........
+#
+# A Python program to convert a CSV file 
+# into a FeatureCollection of Points.
+#
+# To run: python csv2geojson.py
+# Enter in name of CSV file to convert
+#
+# Output file will be the name of the input
+# file but with a .geojson extension
+#
+#
+#############################################################
+
+
+########################################
+#
+#.................. Import .............
 import os
 os.system('clear')  # Clear terminal
-#------ End Import -------
+#--------------- End Import ------------
 #
-##########################
+########################################
 
 
 #############################################################################
