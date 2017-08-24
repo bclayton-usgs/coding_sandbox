@@ -17,8 +17,14 @@ os.system('clear')  # Clear terminal
 
 print '\n\n Enter the name of the CSV file'
 Fsta = raw_input('File name: ')                   # Get name of CSV file
+print '\n\n'
 
-print '\n\n The file %s will be read in \n\n' %Fsta
+try:                                              # Try to open the CSV file that was keyed in
+  Fsta_in = open(Fsta,'r')                        # Open file to read
+  print '\n Reading in file: %s \n' %Fsta
+except:
+  print '\n ERROR: Cannot open file %s, exiting \n' %Fsta
+  exit()
 
 #..................... Read in Header Line .................................
 head = Fsta_in.readline().split(',')            # Get header line
@@ -63,10 +69,10 @@ Fsta_in.close()                                 # Close file
 #........................ Make GeoJSON File ................................
 
 
-Fjson = Fsta.split('.')[0]+'.geojson'               # Make file name for GeoJSON file, input file name with .geojson extension
-Fjson_out = open(Fjson,'w')                         # Open file to write
+Fjson = Fsta.split('.')[0]+'.geojson'             # Make file name for GeoJSON file, input file name with .geojson extension
+Fjson_out = open(Fjson,'w')                       # Open file to write
 
-print '\n\n The output file is: %s \n\n' %Fjson
+print '\n The output file is: %s \n' %Fjson
 
 #...................... Write to GeoJSON File .............................
 # Example of output:
@@ -94,7 +100,7 @@ Fjson_out.write('''
   "type" : "FeatureCollection",
   "features" : [''')
 
-for js in range(nsta):                              # Loop through number of values and write a Feature GeoJSON type for each point
+for js in range(nsta):                            # Loop through number of values and write a Feature GeoJSON type for each point
   tag = '%02d'%js
   Fjson_out.write('''
     {
@@ -106,11 +112,11 @@ for js in range(nsta):                              # Loop through number of val
       "properties" : {
         "Station" : "%s",
         "marker-size" : "small"
-      }'''%(lon[js],lat[js],name[js]))   # Input longitude, latitude, and name
-  if js == nsta-1:                                            # If on last iteration, end object with no comma
+      }'''%(lon[js],lat[js],name[js]))            # Input longitude, latitude, and name
+  if js == nsta-1:                                # If on last iteration, end object with no comma
     Fjson_out.write('''
     }''') 
-  else:                                                       # Else put comma in to add another object
+  else:                                           # Else put comma in to add another object
     Fjson_out.write('''
     },''')
 
@@ -124,6 +130,12 @@ Fjson_out.write('''
 
 
 Fjson_out.close()
+print '\n\n'
 #------------------- End Make GeoJSON File ----------------------------------
 #
 #############################################################################
+
+
+
+
+#######################------------- END PROGRAM ------------------ END PROGRAM ------------------ END PROGRAM ---------------#####################3
