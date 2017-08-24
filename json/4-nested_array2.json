@@ -2,7 +2,7 @@
 
 
 {
-  "Brandon":{
+  "Will":{
     "websites" : [
       {
         "description" : "google_blog",
@@ -24,11 +24,11 @@
       }
     ]
   },
-  "Melodie":{
+  "Deanna":{
     "websites" : [
       {
-        "description" : "clayton_smarthome",
-        "url"         : "smarthome.brandonsclayton.com"
+        "description" : "google",
+        "url"         : "google.com"
       },
       {
         "description" : "google_play_music",
