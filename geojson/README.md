@@ -13,7 +13,14 @@ The CSV file can be in any order but must contain a header line with "name", "la
 | name01  | -78.8 | 40.0 |
 | name02  | -78.9 | 39.8 |
 
-For a complete CSV file example see (stations_474.csv)[https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/stations_474.csv]
+For a complete CSV file example see [stations_474.csv](https://github.com/bclayton-usgs/coding_sandbox/blob/master/geojson/stations_474.csv)
+
+#### Runing Program:
+To run the Python program:
+'python csv2geojson.py'
+The program will ask for the CSV file to read in, enter the name of the CSV file using the keyboard.
+The output file name will be the input CSV file name with a .geojson extension.
+
 
 
 ### 01-Point.geojson
