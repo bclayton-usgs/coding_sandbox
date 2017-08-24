@@ -47,15 +47,14 @@ except:
 
 #..................... Read in Header Line .................................
 head = Fsta_in.readline().split(',')            # Get header line
-js=-1                                           # Counter
 for jh in head:                                 # Loop through the header line
-  js=js+1
+  ih = head.index(jh)                           # Get index number
   if   jh.strip() == 'name':                    # Find where name column is 
-    jname = js          
+    jname = ih          
   elif jh.strip() == 'lat':                     # Find where latitude column is
-    jlat = js
+    jlat = ih
   elif jh.strip() == 'lon':                     # Find where longitude column is
-    jlon = js
+    jlon = ih
 #---------------------------------------------------------------------------
 
 #..................... Read in Name, Lat, and Lon Columns ..................
