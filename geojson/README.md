@@ -4,7 +4,7 @@
 
 ## csv2geojson 
 * A python program to convert a CSV file into a FeatureCollection of Points.
-* The CSV file can be in any order but must contain a header line with "name", "lat", and "lon" where name, lat and lon are lower-case.
+* The CSV file can be in any order but must contain a header line with "name", "lat", and "lon" where "name", "lat", and "lon" are lower-case.
 
 #### Example CSV format:
 | name    | lon   | lat  |
