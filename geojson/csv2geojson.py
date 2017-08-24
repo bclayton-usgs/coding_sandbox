@@ -66,7 +66,7 @@ Fsta_in.close()                                 # Close file
 Fjson = Fsta.split('.')[0]+'.geojson'               # Make file name for GeoJSON file, input file name with .geojson extension
 Fjson_out = open(Fjson,'w')                         # Open file to write
 
-print '\n\n The output file is: %s \n\n' $Fjson
+print '\n\n The output file is: %s \n\n' %Fjson
 
 #...................... Write to GeoJSON File .............................
 # Example of output:
@@ -105,8 +105,7 @@ for js in range(nsta):                              # Loop through number of val
       },
       "properties" : {
         "Station" : "%s",
-        "marker-size" : "small",
-        "marker-color" : "00FF00"
+        "marker-size" : "small"
       }'''%(lon[js],lat[js],name[js]))   # Input longitude, latitude, and name
   if js == nsta-1:                                            # If on last iteration, end object with no comma
     Fjson_out.write('''
