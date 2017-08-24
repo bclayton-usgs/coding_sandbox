@@ -1,0 +1,49 @@
+
+
+
+{
+  "Brandon":{
+    "websites" : [
+      {
+        "description" : "google_blog",
+        "url"         : "google.blog"
+      },
+      {
+        "description" : "google_play_music",
+        "url"         : "play.google.com/music"
+      }
+    ],
+    "social_media" : [
+      {
+        "description" : "500px",
+        "url"         : "500px.com"
+      },
+      {
+        "description" : "instagram",
+        "url"         : "instagram.com"
+      }
+    ]
+  },
+  "Melodie":{
+    "websites" : [
+      {
+        "description" : "clayton_smarthome",
+        "url"         : "smarthome.brandonsclayton.com"
+      },
+      {
+        "description" : "google_play_music",
+        "url"         : "play.google.com/music"
+      }
+    ],
+    "social_media" : [
+      {
+        "description" : "facebook",
+        "url"         : "facebook.com"
+      },
+      {
+        "description" : "instagram",
+        "url"         : "instagram.com"
+      }
+    ]
+  }
+}
