@@ -616,7 +616,8 @@
             "longitude": -90.05
           }
         }
-      ]
+      ],
+      "id": "nehrp"
     },
     {
       "type": "FeatureCollection",
@@ -2331,7 +2332,8 @@
             "longitude": -100.9
           }
         }
-      ]
+      ],
+      "id": "wus"
     },
     {
       "type": "FeatureCollection",
@@ -2804,7 +2806,8 @@
             "longitude": -139.7
           }
         }
-      ]
+      ],
+      "id": "ak"
     },
     {
       "type": "FeatureCollection",
@@ -2917,7 +2920,8 @@
             "longitude": -119.6
           }
         }
-      ]
+      ],
+      "id": "facilities"
     },
     {
       "type": "FeatureCollection",
@@ -4632,7 +4636,8 @@
             "longitude": -87.9
           }
         }
-      ]
+      ],
+      "id": "ceus"
     },
     {
       "type": "FeatureCollection",
@@ -5951,7 +5956,8 @@
             "longitude": -87.9
           }
         }
-      ]
+      ],
+      "id": "nrc"
     }
   ]
 }
