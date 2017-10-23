@@ -14,7 +14,9 @@
         "siteName": "Concord CA",
         "siteId": "CONCORD_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 37.95,
+        "longitude": -122.0
       }
     },
     {
@@ -30,7 +32,9 @@
         "siteName": "Monterey CA",
         "siteId": "MONTEREY_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 36.6,
+        "longitude": -121.9
       }
     },
     {
@@ -46,7 +50,9 @@
         "siteName": "Oakland CA",
         "siteId": "OAKLAND_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 37.8,
+        "longitude": -122.25
       }
     },
     {
@@ -62,7 +68,9 @@
         "siteName": "Sacramento CA",
         "siteId": "SACRAMENTO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 38.6,
+        "longitude": -121.5
       }
     },
     {
@@ -78,7 +86,9 @@
         "siteName": "San Francisco CA",
         "siteId": "SAN_FRANCISCO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 37.75,
+        "longitude": -122.40000000000002
       }
     },
     {
@@ -94,7 +104,9 @@
         "siteName": "San Jose CA",
         "siteId": "SAN_JOSE_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 37.35,
+        "longitude": -121.9
       }
     },
     {
@@ -110,7 +122,9 @@
         "siteName": "San Mateo CA",
         "siteId": "SAN_MATEO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 37.55,
+        "longitude": -122.3
       }
     },
     {
@@ -126,7 +140,9 @@
         "siteName": "Santa Cruz CA",
         "siteId": "SANTA_CRUZ_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 36.95,
+        "longitude": -122.05
       }
     },
     {
@@ -142,7 +158,9 @@
         "siteName": "Santa Rosa CA",
         "siteId": "SANTA_ROSA_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 38.45000000000001,
+        "longitude": -122.7
       }
     },
     {
@@ -158,7 +176,9 @@
         "siteName": "Vallejo CA",
         "siteId": "VALLEJO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 38.1,
+        "longitude": -122.25
       }
     },
     {
@@ -174,7 +194,9 @@
         "siteName": "Century City CA",
         "siteId": "CENTURY_CITY_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.05,
+        "longitude": -118.40000000000002
       }
     },
     {
@@ -190,7 +212,9 @@
         "siteName": "Irvine CA",
         "siteId": "IRVINE_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 33.65,
+        "longitude": -117.8
       }
     },
     {
@@ -206,7 +230,9 @@
         "siteName": "Long Beach CA",
         "siteId": "LONG_BEACH_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 33.8,
+        "longitude": -118.2
       }
     },
     {
@@ -222,7 +248,9 @@
         "siteName": "Los Angeles CA",
         "siteId": "LOS_ANGELES_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.05,
+        "longitude": -118.25
       }
     },
     {
@@ -238,7 +266,9 @@
         "siteName": "Northridge CA",
         "siteId": "NORTHRIDGE_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.2,
+        "longitude": -118.55000000000001
       }
     },
     {
@@ -254,7 +284,9 @@
         "siteName": "Riverside CA",
         "siteId": "RIVERSIDE_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 33.95000000000001,
+        "longitude": -117.4
       }
     },
     {
@@ -270,7 +302,9 @@
         "siteName": "San Bernardino CA",
         "siteId": "SAN_BERNARDINO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.1,
+        "longitude": -117.30000000000001
       }
     },
     {
@@ -286,7 +320,9 @@
         "siteName": "San Diego CA",
         "siteId": "SAN_DIEGO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 32.7,
+        "longitude": -117.15000000000002
       }
     },
     {
@@ -302,7 +338,9 @@
         "siteName": "San Luis Obispo CA",
         "siteId": "SAN_LUIS_OBISPO_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 35.3,
+        "longitude": -120.65
       }
     },
     {
@@ -318,7 +356,9 @@
         "siteName": "Santa Barbara CA",
         "siteId": "SANTA_BARBARA_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.45,
+        "longitude": -119.7
       }
     },
     {
@@ -334,7 +374,9 @@
         "siteName": "Ventura CA",
         "siteId": "VENTURA_CA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 34.3,
+        "longitude": -119.30000000000001
       }
     },
     {
@@ -350,7 +392,9 @@
         "siteName": "Boise ID",
         "siteId": "BOISE_ID",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 43.6,
+        "longitude": -116.2
       }
     },
     {
@@ -366,7 +410,9 @@
         "siteName": "Las Vegas NV",
         "siteId": "LAS_VEGAS_NV",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 36.20000000000001,
+        "longitude": -115.15000000000002
       }
     },
     {
@@ -382,7 +428,9 @@
         "siteName": "Reno NV",
         "siteId": "RENO_NV",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 39.55,
+        "longitude": -119.8
       }
     },
     {
@@ -398,7 +446,9 @@
         "siteName": "Salt Lake City UT",
         "siteId": "SALT_LAKE_CITY_UT",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 40.75,
+        "longitude": -111.9
       }
     },
     {
@@ -414,7 +464,9 @@
         "siteName": "Portland OR",
         "siteId": "PORTLAND_OR",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 45.5,
+        "longitude": -122.65
       }
     },
     {
@@ -430,7 +482,9 @@
         "siteName": "Everett WA",
         "siteId": "EVERETT_WA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 48.00000000000001,
+        "longitude": -122.2
       }
     },
     {
@@ -446,7 +500,9 @@
         "siteName": "Seattle WA",
         "siteId": "SEATTLE_WA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 47.6,
+        "longitude": -122.3
       }
     },
     {
@@ -462,7 +518,9 @@
         "siteName": "Tacoma WA",
         "siteId": "TACOMA_WA",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 47.25,
+        "longitude": -122.45000000000002
       }
     },
     {
@@ -478,7 +536,9 @@
         "siteName": "Chicago IL",
         "siteId": "CHICAGO_IL",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 41.85,
+        "longitude": -87.65
       }
     },
     {
@@ -494,7 +554,9 @@
         "siteName": "St Louis MO",
         "siteId": "ST_LOUIS_MO",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 38.6,
+        "longitude": -90.2
       }
     },
     {
@@ -510,7 +572,9 @@
         "siteName": "New York NY",
         "siteId": "NEW_YORK_NY",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 40.75,
+        "longitude": -74.0
       }
     },
     {
@@ -526,7 +590,9 @@
         "siteName": "Charleston SC",
         "siteId": "CHARLESTON_SC",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 32.8,
+        "longitude": -79.95
       }
     },
     {
@@ -542,7 +608,9 @@
         "siteName": "Memphis TN",
         "siteId": "MEMPHIS_TN",
         "region": "NEHRP Sites",
-        "regionId": "NEHRP"
+        "regionId": "NEHRP",
+        "latitude": 35.15,
+        "longitude": -90.05
       }
     },
     {
@@ -558,7 +626,9 @@
         "siteName": "Big Sur CA",
         "siteId": "BIG_SUR_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.25,
+        "longitude": -121.75000000000001
       }
     },
     {
@@ -574,7 +644,9 @@
         "siteName": "Coalinga CA",
         "siteId": "COALINGA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.15,
+        "longitude": -120.40000000000002
       }
     },
     {
@@ -590,7 +662,9 @@
         "siteName": "Concord CA",
         "siteId": "CONCORD_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.95,
+        "longitude": -122.0
       }
     },
     {
@@ -606,7 +680,9 @@
         "siteName": "Eureka CA",
         "siteId": "EUREKA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.8,
+        "longitude": -124.2
       }
     },
     {
@@ -622,7 +698,9 @@
         "siteName": "Fresno CA",
         "siteId": "FRESNO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.75,
+        "longitude": -119.75
       }
     },
     {
@@ -638,7 +716,9 @@
         "siteName": "Monterey CA",
         "siteId": "MONTEREY_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.6,
+        "longitude": -121.9
       }
     },
     {
@@ -654,7 +734,9 @@
         "siteName": "Morgan Hill CA",
         "siteId": "MORGAN_HILL_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.15,
+        "longitude": -121.65000000000002
       }
     },
     {
@@ -670,7 +752,9 @@
         "siteName": "Oakland CA",
         "siteId": "OAKLAND_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.8,
+        "longitude": -122.25
       }
     },
     {
@@ -686,7 +770,9 @@
         "siteName": "Redding CA",
         "siteId": "REDDING_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.6,
+        "longitude": -122.40000000000002
       }
     },
     {
@@ -702,7 +788,9 @@
         "siteName": "Sacramento CA",
         "siteId": "SACRAMENTO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 38.6,
+        "longitude": -121.5
       }
     },
     {
@@ -718,7 +806,9 @@
         "siteName": "San Francisco CA",
         "siteId": "SAN_FRANCISCO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.75,
+        "longitude": -122.40000000000002
       }
     },
     {
@@ -734,7 +824,9 @@
         "siteName": "San Jose CA",
         "siteId": "SAN_JOSE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.35,
+        "longitude": -121.9
       }
     },
     {
@@ -750,7 +842,9 @@
         "siteName": "San Mateo CA",
         "siteId": "SAN_MATEO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.55,
+        "longitude": -122.3
       }
     },
     {
@@ -766,7 +860,9 @@
         "siteName": "Santa Cruz CA",
         "siteId": "SANTA_CRUZ_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.95,
+        "longitude": -122.05
       }
     },
     {
@@ -782,7 +878,9 @@
         "siteName": "Santa Rosa CA",
         "siteId": "SANTA_ROSA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 38.45000000000001,
+        "longitude": -122.7
       }
     },
     {
@@ -798,7 +896,9 @@
         "siteName": "Vallejo CA",
         "siteId": "VALLEJO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 38.1,
+        "longitude": -122.25
       }
     },
     {
@@ -814,7 +914,9 @@
         "siteName": "Bakersfield CA",
         "siteId": "BAKERSFIELD_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.35,
+        "longitude": -119.35000000000001
       }
     },
     {
@@ -830,7 +932,9 @@
         "siteName": "Brawley CA",
         "siteId": "BRAWLEY_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.0,
+        "longitude": -115.54999999999998
       }
     },
     {
@@ -846,7 +950,9 @@
         "siteName": "Century City CA",
         "siteId": "CENTURY_CITY_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.05,
+        "longitude": -118.40000000000002
       }
     },
     {
@@ -862,7 +968,9 @@
         "siteName": "Cucamonga CA",
         "siteId": "CUCAMONGA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.2,
+        "longitude": -117.55
       }
     },
     {
@@ -878,7 +986,9 @@
         "siteName": "Death Valley CA",
         "siteId": "DEATH_VALLEY_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.35,
+        "longitude": -116.85000000000001
       }
     },
     {
@@ -894,7 +1004,9 @@
         "siteName": "Diablo Canyon CA",
         "siteId": "DIABLO_CANYON_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.2,
+        "longitude": -120.85
       }
     },
     {
@@ -910,7 +1022,9 @@
         "siteName": "Irvine CA",
         "siteId": "IRVINE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.65,
+        "longitude": -117.8
       }
     },
     {
@@ -926,7 +1040,9 @@
         "siteName": "Long Beach CA",
         "siteId": "LONG_BEACH_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.8,
+        "longitude": -118.2
       }
     },
     {
@@ -942,7 +1058,9 @@
         "siteName": "Los Angeles CA",
         "siteId": "LOS_ANGELES_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.05,
+        "longitude": -118.25
       }
     },
     {
@@ -958,7 +1076,9 @@
         "siteName": "Malibu West CA",
         "siteId": "MALIBU_WEST_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.05,
+        "longitude": -118.95
       }
     },
     {
@@ -974,7 +1094,9 @@
         "siteName": "Mammoth Lakes CA",
         "siteId": "MAMMOTH_LAKES_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.65,
+        "longitude": -119.0
       }
     },
     {
@@ -990,7 +1112,9 @@
         "siteName": "Northridge CA",
         "siteId": "NORTHRIDGE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.2,
+        "longitude": -118.55000000000001
       }
     },
     {
@@ -1006,7 +1130,9 @@
         "siteName": "Palmdale CA",
         "siteId": "PALMDALE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.5,
+        "longitude": -118.00000000000001
       }
     },
     {
@@ -1022,7 +1148,9 @@
         "siteName": "Palm Springs CA",
         "siteId": "PALM_SPRINGS_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.85,
+        "longitude": -116.55
       }
     },
     {
@@ -1038,7 +1166,9 @@
         "siteName": "Pasadena CA",
         "siteId": "PASADENA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.15,
+        "longitude": -118.15
       }
     },
     {
@@ -1054,7 +1184,9 @@
         "siteName": "Riverside CA",
         "siteId": "RIVERSIDE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.95000000000001,
+        "longitude": -117.4
       }
     },
     {
@@ -1070,7 +1202,9 @@
         "siteName": "San Bernardino CA",
         "siteId": "SAN_BERNARDINO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.1,
+        "longitude": -117.30000000000001
       }
     },
     {
@@ -1086,7 +1220,9 @@
         "siteName": "San Diego CA",
         "siteId": "SAN_DIEGO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 32.7,
+        "longitude": -117.15000000000002
       }
     },
     {
@@ -1102,7 +1238,9 @@
         "siteName": "San Luis Obispo CA",
         "siteId": "SAN_LUIS_OBISPO_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.3,
+        "longitude": -120.65
       }
     },
     {
@@ -1118,7 +1256,9 @@
         "siteName": "San Onofre CA",
         "siteId": "SAN_ONOFRE_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.4,
+        "longitude": -117.55
       }
     },
     {
@@ -1134,7 +1274,9 @@
         "siteName": "Santa Barbara CA",
         "siteId": "SANTA_BARBARA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.45,
+        "longitude": -119.7
       }
     },
     {
@@ -1150,7 +1292,9 @@
         "siteName": "Ventura CA",
         "siteId": "VENTURA_CA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 34.3,
+        "longitude": -119.30000000000001
       }
     },
     {
@@ -1166,7 +1310,9 @@
         "siteName": "Grand Canyon Village AZ",
         "siteId": "GRAND_CANYON_VILLAGE_AZ",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.05,
+        "longitude": -112.15
       }
     },
     {
@@ -1182,7 +1328,9 @@
         "siteName": "Palo Verde AZ",
         "siteId": "PALO_VERDE_AZ",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.4,
+        "longitude": -112.85
       }
     },
     {
@@ -1198,7 +1346,9 @@
         "siteName": "Phoenix AZ",
         "siteId": "PHOENIX_AZ",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 33.45,
+        "longitude": -112.1
       }
     },
     {
@@ -1214,7 +1364,9 @@
         "siteName": "Tucson AZ",
         "siteId": "TUCSON_AZ",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 32.2,
+        "longitude": -110.95
       }
     },
     {
@@ -1230,7 +1382,9 @@
         "siteName": "Denver CO",
         "siteId": "DENVER_CO",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 39.75,
+        "longitude": -105.00000000000001
       }
     },
     {
@@ -1246,7 +1400,9 @@
         "siteName": "La Junta CO",
         "siteId": "LA_JUNTA_CO",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 38.0,
+        "longitude": -103.55
       }
     },
     {
@@ -1262,7 +1418,9 @@
         "siteName": "Paradox CO",
         "siteId": "PARADOX_CO",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 38.4,
+        "longitude": -108.95
       }
     },
     {
@@ -1278,7 +1436,9 @@
         "siteName": "Rangely CO",
         "siteId": "RANGELY_CO",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.1,
+        "longitude": -108.8
       }
     },
     {
@@ -1294,7 +1454,9 @@
         "siteName": "Trinidad CO",
         "siteId": "TRINIDAD_CO",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.2,
+        "longitude": -104.5
       }
     },
     {
@@ -1310,7 +1472,9 @@
         "siteName": "Boise ID",
         "siteId": "BOISE_ID",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 43.6,
+        "longitude": -116.2
       }
     },
     {
@@ -1326,7 +1490,9 @@
         "siteName": "Idaho National Lab ID",
         "siteId": "IDAHO_NATIONAL_LAB_ID",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 43.6,
+        "longitude": -112.85
       }
     },
     {
@@ -1342,7 +1508,9 @@
         "siteName": "Lima MT",
         "siteId": "LIMA_MT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.650000000000006,
+        "longitude": -112.6
       }
     },
     {
@@ -1358,7 +1526,9 @@
         "siteName": "Bozeman MT",
         "siteId": "BOZEMAN_MT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 45.7,
+        "longitude": -111.05
       }
     },
     {
@@ -1374,7 +1544,9 @@
         "siteName": "Billings MT",
         "siteId": "BILLINGS_MT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 45.800000000000004,
+        "longitude": -108.5
       }
     },
     {
@@ -1390,7 +1562,9 @@
         "siteName": "Missoula MT",
         "siteId": "MISSOULA_MT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 46.900000000000006,
+        "longitude": -114.00000000000001
       }
     },
     {
@@ -1406,7 +1580,9 @@
         "siteName": "Carson City NV",
         "siteId": "CARSON_CITY_NV",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 39.15,
+        "longitude": -119.75
       }
     },
     {
@@ -1422,7 +1598,9 @@
         "siteName": "Elko NV",
         "siteId": "ELKO_NV",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.85,
+        "longitude": -115.75
       }
     },
     {
@@ -1438,7 +1616,9 @@
         "siteName": "Las Vegas NV",
         "siteId": "LAS_VEGAS_NV",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 36.20000000000001,
+        "longitude": -115.15000000000002
       }
     },
     {
@@ -1454,7 +1634,9 @@
         "siteName": "Reno NV",
         "siteId": "RENO_NV",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 39.55,
+        "longitude": -119.8
       }
     },
     {
@@ -1470,7 +1652,9 @@
         "siteName": "Albuquerque NM",
         "siteId": "ALBUQUERQUE_NM",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.1,
+        "longitude": -106.6
       }
     },
     {
@@ -1486,7 +1670,9 @@
         "siteName": "Artesia NM",
         "siteId": "ARTESIA_NM",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 32.85,
+        "longitude": -104.4
       }
     },
     {
@@ -1502,7 +1688,9 @@
         "siteName": "Los Alamos National Lab NM",
         "siteId": "LOS_ALAMOS_NATIONAL_LAB_NM",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.85,
+        "longitude": -106.3
       }
     },
     {
@@ -1518,7 +1706,9 @@
         "siteName": "Las Cruces NM",
         "siteId": "LAS_CRUCES_NM",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 32.3,
+        "longitude": -106.75
       }
     },
     {
@@ -1534,7 +1724,9 @@
         "siteName": "Brigham City UT",
         "siteId": "BRIGHAM_CITY_UT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 41.5,
+        "longitude": -112.0
       }
     },
     {
@@ -1550,7 +1742,9 @@
         "siteName": "Cedar City UT",
         "siteId": "CEDAR_CITY_UT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 37.7,
+        "longitude": -113.05
       }
     },
     {
@@ -1566,7 +1760,9 @@
         "siteName": "Green River UT",
         "siteId": "GREEN_RIVER_UT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 39.0,
+        "longitude": -110.15
       }
     },
     {
@@ -1582,7 +1778,9 @@
         "siteName": "Provo UT",
         "siteId": "PROVO_UT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.25,
+        "longitude": -111.65
       }
     },
     {
@@ -1598,7 +1796,9 @@
         "siteName": "Salt Lake City UT",
         "siteId": "SALT_LAKE_CITY_UT",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 40.75,
+        "longitude": -111.9
       }
     },
     {
@@ -1614,7 +1814,9 @@
         "siteName": "Casper WY",
         "siteId": "CASPER_WY",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 42.85,
+        "longitude": -106.3
       }
     },
     {
@@ -1630,7 +1832,9 @@
         "siteName": "Cheyenne WY",
         "siteId": "CHEYENNE_WY",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 41.15,
+        "longitude": -104.8
       }
     },
     {
@@ -1646,7 +1850,9 @@
         "siteName": "Jackson WY",
         "siteId": "JACKSON_WY",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 43.5,
+        "longitude": -110.75
       }
     },
     {
@@ -1662,7 +1868,9 @@
         "siteName": "Yellowstone WY",
         "siteId": "YELLOWSTONE_WY",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.4,
+        "longitude": -110.55
       }
     },
     {
@@ -1678,7 +1886,9 @@
         "siteName": "Astoria OR",
         "siteId": "ASTORIA_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 46.2,
+        "longitude": -123.85000000000001
       }
     },
     {
@@ -1694,7 +1904,9 @@
         "siteName": "Bend OR",
         "siteId": "BEND_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.05,
+        "longitude": -121.30000000000001
       }
     },
     {
@@ -1710,7 +1922,9 @@
         "siteName": "Brookings OR",
         "siteId": "BROOKINGS_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 42.05,
+        "longitude": -124.25
       }
     },
     {
@@ -1726,7 +1940,9 @@
         "siteName": "Coos Bay OR",
         "siteId": "COOS_BAY_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 43.4,
+        "longitude": -124.2
       }
     },
     {
@@ -1742,7 +1958,9 @@
         "siteName": "Eugene OR",
         "siteId": "EUGENE_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.05,
+        "longitude": -123.10000000000001
       }
     },
     {
@@ -1758,7 +1976,9 @@
         "siteName": "Klamath Falls OR",
         "siteId": "KLAMATH_FALLS_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 42.2,
+        "longitude": -121.80000000000001
       }
     },
     {
@@ -1774,7 +1994,9 @@
         "siteName": "Medford OR",
         "siteId": "MEDFORD_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 42.35,
+        "longitude": -122.90000000000002
       }
     },
     {
@@ -1790,7 +2012,9 @@
         "siteName": "Newport OR",
         "siteId": "NEWPORT_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.650000000000006,
+        "longitude": -124.05
       }
     },
     {
@@ -1806,7 +2030,9 @@
         "siteName": "Pendleton OR",
         "siteId": "PENDLETON_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 45.7,
+        "longitude": -118.79999999999998
       }
     },
     {
@@ -1822,7 +2048,9 @@
         "siteName": "Portland OR",
         "siteId": "PORTLAND_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 45.5,
+        "longitude": -122.65
       }
     },
     {
@@ -1838,7 +2066,9 @@
         "siteName": "Salem OR",
         "siteId": "SALEM_OR",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 44.95,
+        "longitude": -123.05000000000001
       }
     },
     {
@@ -1854,7 +2084,9 @@
         "siteName": "Aberdeen WA",
         "siteId": "ABERDEEN_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.0,
+        "longitude": -123.80000000000001
       }
     },
     {
@@ -1870,7 +2102,9 @@
         "siteName": "Bellingham WA",
         "siteId": "BELLINGHAM_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 48.75,
+        "longitude": -122.50000000000001
       }
     },
     {
@@ -1886,7 +2120,9 @@
         "siteName": "Ellensburg WA",
         "siteId": "ELLENSBURG_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.0,
+        "longitude": -120.55000000000001
       }
     },
     {
@@ -1902,7 +2138,9 @@
         "siteName": "Everett WA",
         "siteId": "EVERETT_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 48.00000000000001,
+        "longitude": -122.2
       }
     },
     {
@@ -1918,7 +2156,9 @@
         "siteName": "Hanford Site WA",
         "siteId": "HANFORD_SITE_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 46.55,
+        "longitude": -119.6
       }
     },
     {
@@ -1934,7 +2174,9 @@
         "siteName": "Olympia WA",
         "siteId": "OLYMPIA_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.05,
+        "longitude": -122.90000000000002
       }
     },
     {
@@ -1950,7 +2192,9 @@
         "siteName": "Seattle WA",
         "siteId": "SEATTLE_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.6,
+        "longitude": -122.3
       }
     },
     {
@@ -1966,7 +2210,9 @@
         "siteName": "Spokane WA",
         "siteId": "SPOKANE_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.65,
+        "longitude": -117.4
       }
     },
     {
@@ -1982,7 +2228,9 @@
         "siteName": "Tacoma WA",
         "siteId": "TACOMA_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 47.25,
+        "longitude": -122.45000000000002
       }
     },
     {
@@ -1998,7 +2246,9 @@
         "siteName": "Yakima WA",
         "siteId": "YAKIMA_WA",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 46.6,
+        "longitude": -120.50000000000001
       }
     },
     {
@@ -2014,7 +2264,9 @@
         "siteName": "Edgemont SD",
         "siteId": "EDGEMONT_SD",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 43.3,
+        "longitude": -103.85
       }
     },
     {
@@ -2030,7 +2282,9 @@
         "siteName": "Amarillo TX",
         "siteId": "AMARILLO_TX",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 35.2,
+        "longitude": -101.85
       }
     },
     {
@@ -2046,7 +2300,9 @@
         "siteName": "Kermit TX",
         "siteId": "KERMIT_TX",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 31.850000000000005,
+        "longitude": -103.1
       }
     },
     {
@@ -2062,7 +2318,9 @@
         "siteName": "Snyder TX",
         "siteId": "SNYDER_TX",
         "region": "Western US",
-        "regionId": "WUS"
+        "regionId": "WUS",
+        "latitude": 32.7,
+        "longitude": -100.9
       }
     },
     {
@@ -2078,7 +2336,9 @@
         "siteName": "Adak AK",
         "siteId": "ADAK_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 51.9,
+        "longitude": -176.65
       }
     },
     {
@@ -2094,7 +2354,9 @@
         "siteName": "Anchorage AK",
         "siteId": "ANCHORAGE_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 61.20000000000001,
+        "longitude": -149.9
       }
     },
     {
@@ -2110,7 +2372,9 @@
         "siteName": "Barrow AK",
         "siteId": "BARROW_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 71.3,
+        "longitude": -156.75
       }
     },
     {
@@ -2126,7 +2390,9 @@
         "siteName": "Bethel AK",
         "siteId": "BETHEL_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 60.8,
+        "longitude": -161.8
       }
     },
     {
@@ -2142,7 +2408,9 @@
         "siteName": "Delta Junction AK",
         "siteId": "DELTA_JUNCTION_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 64.0,
+        "longitude": -145.7
       }
     },
     {
@@ -2158,7 +2426,9 @@
         "siteName": "Dillingham AK",
         "siteId": "DILLINGHAM_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 59.050000000000004,
+        "longitude": -158.45
       }
     },
     {
@@ -2174,7 +2444,9 @@
         "siteName": "Dutch Harbor AK",
         "siteId": "DUTCH_HARBOR_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 53.9,
+        "longitude": -166.55
       }
     },
     {
@@ -2190,7 +2462,9 @@
         "siteName": "Evansville AK",
         "siteId": "EVANSVILLE_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 66.9,
+        "longitude": -151.5
       }
     },
     {
@@ -2206,7 +2480,9 @@
         "siteName": "Fairbanks AK",
         "siteId": "FAIRBANKS_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 64.85,
+        "longitude": -147.7
       }
     },
     {
@@ -2222,7 +2498,9 @@
         "siteName": "Glennallen AK",
         "siteId": "GLENNALLEN_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 62.1,
+        "longitude": -145.55
       }
     },
     {
@@ -2238,7 +2516,9 @@
         "siteName": "Haines AK",
         "siteId": "HAINES_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 59.25000000000001,
+        "longitude": -135.45
       }
     },
     {
@@ -2254,7 +2534,9 @@
         "siteName": "Homer AK",
         "siteId": "HOMER_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 59.650000000000006,
+        "longitude": -151.5
       }
     },
     {
@@ -2270,7 +2552,9 @@
         "siteName": "Juneau AK",
         "siteId": "JUNEAU_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 58.3,
+        "longitude": -134.4
       }
     },
     {
@@ -2286,7 +2570,9 @@
         "siteName": "Kenai AK",
         "siteId": "KENAI_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 60.55,
+        "longitude": -151.25
       }
     },
     {
@@ -2302,7 +2588,9 @@
         "siteName": "Ketchikan AK",
         "siteId": "KETCHIKAN_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 55.35,
+        "longitude": -131.65
       }
     },
     {
@@ -2318,7 +2606,9 @@
         "siteName": "Kodiak AK",
         "siteId": "KODIAK_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 57.79999999999999,
+        "longitude": -152.4
       }
     },
     {
@@ -2334,7 +2624,9 @@
         "siteName": "Kotzebue AK",
         "siteId": "KOTZEBUE_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 66.9,
+        "longitude": -162.6
       }
     },
     {
@@ -2350,7 +2642,9 @@
         "siteName": "McGrath AK",
         "siteId": "MCGRATH_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 62.95,
+        "longitude": -155.6
       }
     },
     {
@@ -2366,7 +2660,9 @@
         "siteName": "Nome AK",
         "siteId": "NOME_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 64.5,
+        "longitude": -165.4
       }
     },
     {
@@ -2382,7 +2678,9 @@
         "siteName": "Paxson AK",
         "siteId": "PAXSON_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 63.05,
+        "longitude": -145.5
       }
     },
     {
@@ -2398,7 +2696,9 @@
         "siteName": "Prudhoe Bay AK",
         "siteId": "PRUDHOE_BAY_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 70.25,
+        "longitude": -148.35000000000002
       }
     },
     {
@@ -2414,7 +2714,9 @@
         "siteName": "Sitka AK",
         "siteId": "SITKA_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 57.050000000000004,
+        "longitude": -135.35
       }
     },
     {
@@ -2430,7 +2732,9 @@
         "siteName": "Tok AK",
         "siteId": "TOK_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 63.3,
+        "longitude": -143.0
       }
     },
     {
@@ -2446,7 +2750,9 @@
         "siteName": "Valdez AK",
         "siteId": "VALDEZ_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 61.15,
+        "longitude": -146.35
       }
     },
     {
@@ -2462,7 +2768,9 @@
         "siteName": "Wasilla AK",
         "siteId": "WASILLA_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 61.599999999999994,
+        "longitude": -149.45
       }
     },
     {
@@ -2478,7 +2786,9 @@
         "siteName": "Yakutat AK",
         "siteId": "YAKUTAT_AK",
         "region": " Alaska",
-        "regionId": "AK"
+        "regionId": "AK",
+        "latitude": 59.55,
+        "longitude": -139.7
       }
     },
     {
@@ -2494,7 +2804,9 @@
         "siteName": "Diablo Canyon CA",
         "siteId": "DIABLO_CANYON_CA",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 35.2,
+        "longitude": -120.85
       }
     },
     {
@@ -2510,7 +2822,9 @@
         "siteName": "San Onofre CA",
         "siteId": "SAN_ONOFRE_CA",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 33.4,
+        "longitude": -117.55
       }
     },
     {
@@ -2526,7 +2840,9 @@
         "siteName": "Palo Verde AZ",
         "siteId": "PALO_VERDE_AZ",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 33.4,
+        "longitude": -112.85
       }
     },
     {
@@ -2542,7 +2858,9 @@
         "siteName": "Idaho National Lab ID",
         "siteId": "IDAHO_NATIONAL_LAB_ID",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 43.6,
+        "longitude": -112.85
       }
     },
     {
@@ -2558,7 +2876,9 @@
         "siteName": "Los Alamos National Lab NM",
         "siteId": "LOS_ALAMOS_NATIONAL_LAB_NM",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 35.85,
+        "longitude": -106.3
       }
     },
     {
@@ -2574,7 +2894,9 @@
         "siteName": "Hanford Site WA",
         "siteId": "HANFORD_SITE_WA",
         "region": "US National Labs",
-        "regionId": "FACILITIES"
+        "regionId": "FACILITIES",
+        "latitude": 46.55,
+        "longitude": -119.6
       }
     },
     {
@@ -2590,7 +2912,9 @@
         "siteName": "Grand Canyon Village AZ",
         "siteId": "GRAND_CANYON_VILLAGE_AZ",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 36.05,
+        "longitude": -112.15
       }
     },
     {
@@ -2606,7 +2930,9 @@
         "siteName": "Palo Verde AZ",
         "siteId": "PALO_VERDE_AZ",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.4,
+        "longitude": -112.85
       }
     },
     {
@@ -2622,7 +2948,9 @@
         "siteName": "Phoenix AZ",
         "siteId": "PHOENIX_AZ",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.45,
+        "longitude": -112.1
       }
     },
     {
@@ -2638,7 +2966,9 @@
         "siteName": "Tucson AZ",
         "siteId": "TUCSON_AZ",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.2,
+        "longitude": -110.95
       }
     },
     {
@@ -2654,7 +2984,9 @@
         "siteName": "Denver CO",
         "siteId": "DENVER_CO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.75,
+        "longitude": -105.00000000000001
       }
     },
     {
@@ -2670,7 +3002,9 @@
         "siteName": "La Junta CO",
         "siteId": "LA_JUNTA_CO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.0,
+        "longitude": -103.55
       }
     },
     {
@@ -2686,7 +3020,9 @@
         "siteName": "Paradox CO",
         "siteId": "PARADOX_CO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.4,
+        "longitude": -108.95
       }
     },
     {
@@ -2702,7 +3038,9 @@
         "siteName": "Rangely CO",
         "siteId": "RANGELY_CO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.1,
+        "longitude": -108.8
       }
     },
     {
@@ -2718,7 +3056,9 @@
         "siteName": "Trinidad CO",
         "siteId": "TRINIDAD_CO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.2,
+        "longitude": -104.5
       }
     },
     {
@@ -2734,7 +3074,9 @@
         "siteName": "Idaho National Lab ID",
         "siteId": "IDAHO_NATIONAL_LAB_ID",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.6,
+        "longitude": -112.85
       }
     },
     {
@@ -2750,7 +3092,9 @@
         "siteName": "Lima MT",
         "siteId": "LIMA_MT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.650000000000006,
+        "longitude": -112.6
       }
     },
     {
@@ -2766,7 +3110,9 @@
         "siteName": "Bozeman MT",
         "siteId": "BOZEMAN_MT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 45.7,
+        "longitude": -111.05
       }
     },
     {
@@ -2782,7 +3128,9 @@
         "siteName": "Billings MT",
         "siteId": "BILLINGS_MT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 45.800000000000004,
+        "longitude": -108.5
       }
     },
     {
@@ -2798,7 +3146,9 @@
         "siteName": "Missoula MT",
         "siteId": "MISSOULA_MT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 46.900000000000006,
+        "longitude": -114.00000000000001
       }
     },
     {
@@ -2814,7 +3164,9 @@
         "siteName": "Albuquerque NM",
         "siteId": "ALBUQUERQUE_NM",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.1,
+        "longitude": -106.6
       }
     },
     {
@@ -2830,7 +3182,9 @@
         "siteName": "Artesia NM",
         "siteId": "ARTESIA_NM",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.85,
+        "longitude": -104.4
       }
     },
     {
@@ -2846,7 +3200,9 @@
         "siteName": "Los Alamos National Lab NM",
         "siteId": "LOS_ALAMOS_NATIONAL_LAB_NM",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.85,
+        "longitude": -106.3
       }
     },
     {
@@ -2862,7 +3218,9 @@
         "siteName": "Las Cruces NM",
         "siteId": "LAS_CRUCES_NM",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.3,
+        "longitude": -106.75
       }
     },
     {
@@ -2878,7 +3236,9 @@
         "siteName": "Brigham City UT",
         "siteId": "BRIGHAM_CITY_UT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.5,
+        "longitude": -112.0
       }
     },
     {
@@ -2894,7 +3254,9 @@
         "siteName": "Cedar City UT",
         "siteId": "CEDAR_CITY_UT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.7,
+        "longitude": -113.05
       }
     },
     {
@@ -2910,7 +3272,9 @@
         "siteName": "Green River UT",
         "siteId": "GREEN_RIVER_UT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.0,
+        "longitude": -110.15
       }
     },
     {
@@ -2926,7 +3290,9 @@
         "siteName": "Provo UT",
         "siteId": "PROVO_UT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.25,
+        "longitude": -111.65
       }
     },
     {
@@ -2942,7 +3308,9 @@
         "siteName": "Salt Lake City UT",
         "siteId": "SALT_LAKE_CITY_UT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.75,
+        "longitude": -111.9
       }
     },
     {
@@ -2958,7 +3326,9 @@
         "siteName": "Casper WY",
         "siteId": "CASPER_WY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 42.85,
+        "longitude": -106.3
       }
     },
     {
@@ -2974,7 +3344,9 @@
         "siteName": "Cheyenne WY",
         "siteId": "CHEYENNE_WY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.15,
+        "longitude": -104.8
       }
     },
     {
@@ -2990,7 +3362,9 @@
         "siteName": "Jackson WY",
         "siteId": "JACKSON_WY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.5,
+        "longitude": -110.75
       }
     },
     {
@@ -3006,7 +3380,9 @@
         "siteName": "Yellowstone WY",
         "siteId": "YELLOWSTONE_WY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.4,
+        "longitude": -110.55
       }
     },
     {
@@ -3022,7 +3398,9 @@
         "siteName": "Washington DC",
         "siteId": "WASHINGTON_DC",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.9,
+        "longitude": -77.05
       }
     },
     {
@@ -3038,7 +3416,9 @@
         "siteName": "Atmore AL",
         "siteId": "ATMORE_AL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 31.0,
+        "longitude": -87.5
       }
     },
     {
@@ -3054,7 +3434,9 @@
         "siteName": "Birmingham AL",
         "siteId": "BIRMINGHAM_AL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.5,
+        "longitude": -86.8
       }
     },
     {
@@ -3070,7 +3452,9 @@
         "siteName": "El Dorado AR",
         "siteId": "EL_DORADO_AR",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.2,
+        "longitude": -92.7
       }
     },
     {
@@ -3086,7 +3470,9 @@
         "siteName": "Greenbrier AR",
         "siteId": "GREENBRIER_AR",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.2,
+        "longitude": -92.4
       }
     },
     {
@@ -3102,7 +3488,9 @@
         "siteName": "Little Rock AR",
         "siteId": "LITTLE_ROCK_AR",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 34.75,
+        "longitude": -92.3
       }
     },
     {
@@ -3118,7 +3506,9 @@
         "siteName": "Hartford CT",
         "siteId": "HARTFORD_CT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.75,
+        "longitude": -72.7
       }
     },
     {
@@ -3134,7 +3524,9 @@
         "siteName": "Wilmington DE",
         "siteId": "WILMINGTON_DE",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.75,
+        "longitude": -75.55
       }
     },
     {
@@ -3150,7 +3542,9 @@
         "siteName": "Jacksonville FL",
         "siteId": "JACKSONVILLE_FL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 30.35,
+        "longitude": -81.65
       }
     },
     {
@@ -3166,7 +3560,9 @@
         "siteName": "Miami FL",
         "siteId": "MIAMI_FL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 25.75,
+        "longitude": -80.2
       }
     },
     {
@@ -3182,7 +3578,9 @@
         "siteName": "Atlanta GA",
         "siteId": "ATLANTA_GA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.75,
+        "longitude": -84.4
       }
     },
     {
@@ -3198,7 +3596,9 @@
         "siteName": "Lincolnton GA",
         "siteId": "LINCOLNTON_GA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 33.8,
+        "longitude": -82.5
       }
     },
     {
@@ -3214,7 +3614,9 @@
         "siteName": "Savannah GA",
         "siteId": "SAVANNAH_GA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.1,
+        "longitude": -81.1
       }
     },
     {
@@ -3230,7 +3632,9 @@
         "siteName": "Central IL",
         "siteId": "CENTRAL_IL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.0,
+        "longitude": -90.0
       }
     },
     {
@@ -3246,7 +3650,9 @@
         "siteName": "Chicago IL",
         "siteId": "CHICAGO_IL",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.85,
+        "longitude": -87.65
       }
     },
     {
@@ -3262,7 +3668,9 @@
         "siteName": "Evansville IN",
         "siteId": "EVANSVILLE_IN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.0,
+        "longitude": -87.6
       }
     },
     {
@@ -3278,7 +3686,9 @@
         "siteName": "Indianapolis IN",
         "siteId": "INDIANAPOLIS_IN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.8,
+        "longitude": -86.15
       }
     },
     {
@@ -3294,7 +3704,9 @@
         "siteName": "Des Moines IA",
         "siteId": "DES_MOINES_IA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.6,
+        "longitude": -93.6
       }
     },
     {
@@ -3310,7 +3722,9 @@
         "siteName": "Topeka KS",
         "siteId": "TOPEKA_KS",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.050000000000004,
+        "longitude": -95.7
       }
     },
     {
@@ -3326,7 +3740,9 @@
         "siteName": "Wichita KS",
         "siteId": "WICHITA_KS",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.7,
+        "longitude": -97.35
       }
     },
     {
@@ -3342,7 +3758,9 @@
         "siteName": "Louisville KY",
         "siteId": "LOUISVILLE_KY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.25,
+        "longitude": -85.75
       }
     },
     {
@@ -3358,7 +3776,9 @@
         "siteName": "New Orleans LA",
         "siteId": "NEW_ORLEANS_LA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 29.95,
+        "longitude": -90.05
       }
     },
     {
@@ -3374,7 +3794,9 @@
         "siteName": "Augusta ME",
         "siteId": "AUGUSTA_ME",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.3,
+        "longitude": -69.8
       }
     },
     {
@@ -3390,7 +3812,9 @@
         "siteName": "Bangor ME",
         "siteId": "BANGOR_ME",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.8,
+        "longitude": -68.8
       }
     },
     {
@@ -3406,7 +3830,9 @@
         "siteName": "Portland ME",
         "siteId": "PORTLAND_ME",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.65,
+        "longitude": -70.25
       }
     },
     {
@@ -3422,7 +3848,9 @@
         "siteName": "Baltimore MD",
         "siteId": "BALTIMORE_MD",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.3,
+        "longitude": -76.6
       }
     },
     {
@@ -3438,7 +3866,9 @@
         "siteName": "Boston MA",
         "siteId": "BOSTON_MA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 42.35,
+        "longitude": -71.05
       }
     },
     {
@@ -3454,7 +3884,9 @@
         "siteName": "Detroit MI",
         "siteId": "DETROIT_MI",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 42.35,
+        "longitude": -83.05
       }
     },
     {
@@ -3470,7 +3902,9 @@
         "siteName": "Minneapolis MN",
         "siteId": "MINNEAPOLIS_MN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 45.0,
+        "longitude": -93.3
       }
     },
     {
@@ -3486,7 +3920,9 @@
         "siteName": "Jackson MS",
         "siteId": "JACKSON_MS",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.3,
+        "longitude": -90.2
       }
     },
     {
@@ -3502,7 +3938,9 @@
         "siteName": "Cape Girardeau MO",
         "siteId": "CAPE_GIRARDEAU_MO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.3,
+        "longitude": -89.5
       }
     },
     {
@@ -3518,7 +3956,9 @@
         "siteName": "New Madrid MO",
         "siteId": "NEW_MADRID_MO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 36.6,
+        "longitude": -89.55
       }
     },
     {
@@ -3534,7 +3974,9 @@
         "siteName": "St Louis MO",
         "siteId": "ST_LOUIS_MO",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.6,
+        "longitude": -90.2
       }
     },
     {
@@ -3550,7 +3992,9 @@
         "siteName": "Omaha NE",
         "siteId": "OMAHA_NE",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.25,
+        "longitude": -96.00000000000001
       }
     },
     {
@@ -3566,7 +4010,9 @@
         "siteName": "Manchester NH",
         "siteId": "MANCHESTER_NH",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.0,
+        "longitude": -71.45
       }
     },
     {
@@ -3582,7 +4028,9 @@
         "siteName": "Trenton NJ",
         "siteId": "TRENTON_NJ",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.2,
+        "longitude": -74.75
       }
     },
     {
@@ -3598,7 +4046,9 @@
         "siteName": "Batavia NY",
         "siteId": "BATAVIA_NY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.0,
+        "longitude": -78.2
       }
     },
     {
@@ -3614,7 +4064,9 @@
         "siteName": "Malone NY",
         "siteId": "MALONE_NY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.85,
+        "longitude": -74.3
       }
     },
     {
@@ -3630,7 +4082,9 @@
         "siteName": "New York NY",
         "siteId": "NEW_YORK_NY",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.75,
+        "longitude": -74.0
       }
     },
     {
@@ -3646,7 +4100,9 @@
         "siteName": "Charlotte NC",
         "siteId": "CHARLOTTE_NC",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.25,
+        "longitude": -80.85
       }
     },
     {
@@ -3662,7 +4118,9 @@
         "siteName": "Fargo ND",
         "siteId": "FARGO_ND",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 46.900000000000006,
+        "longitude": -96.8
       }
     },
     {
@@ -3678,7 +4136,9 @@
         "siteName": "Columbus OH",
         "siteId": "COLUMBUS_OH",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.95,
+        "longitude": -83.0
       }
     },
     {
@@ -3694,7 +4154,9 @@
         "siteName": "Sidney OH",
         "siteId": "SIDNEY_OH",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.3,
+        "longitude": -84.15
       }
     },
     {
@@ -3710,7 +4172,9 @@
         "siteName": "Youngstown OH",
         "siteId": "YOUNGSTOWN_OH",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.1,
+        "longitude": -80.65
       }
     },
     {
@@ -3726,7 +4190,9 @@
         "siteName": "Elgin OK",
         "siteId": "ELGIN_OK",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 34.8,
+        "longitude": -98.30000000000001
       }
     },
     {
@@ -3742,7 +4208,9 @@
         "siteName": "Oklahoma City OK",
         "siteId": "OKLAHOMA_CITY_OK",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.5,
+        "longitude": -97.5
       }
     },
     {
@@ -3758,7 +4226,9 @@
         "siteName": "Philadelphia PA",
         "siteId": "PHILADELPHIA_PA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 39.95,
+        "longitude": -75.15
       }
     },
     {
@@ -3774,7 +4244,9 @@
         "siteName": "Pittsburg PA",
         "siteId": "PITTSBURG_PA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 40.45,
+        "longitude": -80.0
       }
     },
     {
@@ -3790,7 +4262,9 @@
         "siteName": "Providence RI",
         "siteId": "PROVIDENCE_RI",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 41.8,
+        "longitude": -71.4
       }
     },
     {
@@ -3806,7 +4280,9 @@
         "siteName": "Charleston SC",
         "siteId": "CHARLESTON_SC",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.8,
+        "longitude": -79.95
       }
     },
     {
@@ -3822,7 +4298,9 @@
         "siteName": "Edgemont SD",
         "siteId": "EDGEMONT_SD",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.3,
+        "longitude": -103.85
       }
     },
     {
@@ -3838,7 +4316,9 @@
         "siteName": "Platte SD",
         "siteId": "PLATTE_SD",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.4,
+        "longitude": -98.85
       }
     },
     {
@@ -3854,7 +4334,9 @@
         "siteName": "Sioux Falls SD",
         "siteId": "SIOUX_FALLS_SD",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.550000000000004,
+        "longitude": -96.75
       }
     },
     {
@@ -3870,7 +4352,9 @@
         "siteName": "Chattanooga TN",
         "siteId": "CHATTANOOGA_TN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.05,
+        "longitude": -85.25
       }
     },
     {
@@ -3886,7 +4370,9 @@
         "siteName": "Knoxville TN",
         "siteId": "KNOXVILLE_TN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.95,
+        "longitude": -83.9
       }
     },
     {
@@ -3902,7 +4388,9 @@
         "siteName": "Maryville TN",
         "siteId": "MARYVILLE_TN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.75,
+        "longitude": -84.0
       }
     },
     {
@@ -3918,7 +4406,9 @@
         "siteName": "Memphis TN",
         "siteId": "MEMPHIS_TN",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.15,
+        "longitude": -90.05
       }
     },
     {
@@ -3934,7 +4424,9 @@
         "siteName": "Amarillo TX",
         "siteId": "AMARILLO_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 35.2,
+        "longitude": -101.85
       }
     },
     {
@@ -3950,7 +4442,9 @@
         "siteName": "Dallas TX",
         "siteId": "DALLAS_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.8,
+        "longitude": -96.8
       }
     },
     {
@@ -3966,7 +4460,9 @@
         "siteName": "Houston TX",
         "siteId": "HOUSTON_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 29.75,
+        "longitude": -95.35
       }
     },
     {
@@ -3982,7 +4478,9 @@
         "siteName": "Kermit TX",
         "siteId": "KERMIT_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 31.850000000000005,
+        "longitude": -103.1
       }
     },
     {
@@ -3998,7 +4496,9 @@
         "siteName": "San Antonio TX",
         "siteId": "SAN_ANTONIO_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 29.4,
+        "longitude": -98.5
       }
     },
     {
@@ -4014,7 +4514,9 @@
         "siteName": "Snyder TX",
         "siteId": "SNYDER_TX",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 32.7,
+        "longitude": -100.9
       }
     },
     {
@@ -4030,7 +4532,9 @@
         "siteName": "Burlington VT",
         "siteId": "BURLINGTON_VT",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 44.5,
+        "longitude": -73.2
       }
     },
     {
@@ -4046,7 +4550,9 @@
         "siteName": "Blacksburg VA",
         "siteId": "BLACKSBURG_VA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.25,
+        "longitude": -80.4
       }
     },
     {
@@ -4062,7 +4568,9 @@
         "siteName": "Richmond VA",
         "siteId": "RICHMOND_VA",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 37.55,
+        "longitude": -77.45
       }
     },
     {
@@ -4078,7 +4586,9 @@
         "siteName": "Charleston WV",
         "siteId": "CHARLESTON_WV",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 38.35,
+        "longitude": -81.65
       }
     },
     {
@@ -4094,7 +4604,9 @@
         "siteName": "Milwaukee WI",
         "siteId": "MILWAUKEE_WI",
         "region": "Central \u0026 Eastern US",
-        "regionId": "CEUS"
+        "regionId": "CEUS",
+        "latitude": 43.05,
+        "longitude": -87.9
       }
     },
     {
@@ -4110,7 +4622,9 @@
         "siteName": "Denver CO",
         "siteId": "DENVER_CO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.75,
+        "longitude": -105.00000000000001
       }
     },
     {
@@ -4126,7 +4640,9 @@
         "siteName": "La Junta CO",
         "siteId": "LA_JUNTA_CO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.0,
+        "longitude": -103.55
       }
     },
     {
@@ -4142,7 +4658,9 @@
         "siteName": "Trinidad CO",
         "siteId": "TRINIDAD_CO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 37.2,
+        "longitude": -104.5
       }
     },
     {
@@ -4158,7 +4676,9 @@
         "siteName": "Artesia NM",
         "siteId": "ARTESIA_NM",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.85,
+        "longitude": -104.4
       }
     },
     {
@@ -4174,7 +4694,9 @@
         "siteName": "Cheyenne WY",
         "siteId": "CHEYENNE_WY",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.15,
+        "longitude": -104.8
       }
     },
     {
@@ -4190,7 +4712,9 @@
         "siteName": "Washington DC",
         "siteId": "WASHINGTON_DC",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.9,
+        "longitude": -77.05
       }
     },
     {
@@ -4206,7 +4730,9 @@
         "siteName": "Atmore AL",
         "siteId": "ATMORE_AL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 31.0,
+        "longitude": -87.5
       }
     },
     {
@@ -4222,7 +4748,9 @@
         "siteName": "Birmingham AL",
         "siteId": "BIRMINGHAM_AL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 33.5,
+        "longitude": -86.8
       }
     },
     {
@@ -4238,7 +4766,9 @@
         "siteName": "El Dorado AR",
         "siteId": "EL_DORADO_AR",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 33.2,
+        "longitude": -92.7
       }
     },
     {
@@ -4254,7 +4784,9 @@
         "siteName": "Greenbrier AR",
         "siteId": "GREENBRIER_AR",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.2,
+        "longitude": -92.4
       }
     },
     {
@@ -4270,7 +4802,9 @@
         "siteName": "Little Rock AR",
         "siteId": "LITTLE_ROCK_AR",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 34.75,
+        "longitude": -92.3
       }
     },
     {
@@ -4286,7 +4820,9 @@
         "siteName": "Hartford CT",
         "siteId": "HARTFORD_CT",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.75,
+        "longitude": -72.7
       }
     },
     {
@@ -4302,7 +4838,9 @@
         "siteName": "Wilmington DE",
         "siteId": "WILMINGTON_DE",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.75,
+        "longitude": -75.55
       }
     },
     {
@@ -4318,7 +4856,9 @@
         "siteName": "Jacksonville FL",
         "siteId": "JACKSONVILLE_FL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 30.35,
+        "longitude": -81.65
       }
     },
     {
@@ -4334,7 +4874,9 @@
         "siteName": "Miami FL",
         "siteId": "MIAMI_FL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 25.75,
+        "longitude": -80.2
       }
     },
     {
@@ -4350,7 +4892,9 @@
         "siteName": "Atlanta GA",
         "siteId": "ATLANTA_GA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 33.75,
+        "longitude": -84.4
       }
     },
     {
@@ -4366,7 +4910,9 @@
         "siteName": "Lincolnton GA",
         "siteId": "LINCOLNTON_GA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 33.8,
+        "longitude": -82.5
       }
     },
     {
@@ -4382,7 +4928,9 @@
         "siteName": "Savannah GA",
         "siteId": "SAVANNAH_GA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.1,
+        "longitude": -81.1
       }
     },
     {
@@ -4398,7 +4946,9 @@
         "siteName": "Central IL",
         "siteId": "CENTRAL_IL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 40.0,
+        "longitude": -90.0
       }
     },
     {
@@ -4414,7 +4964,9 @@
         "siteName": "Chicago IL",
         "siteId": "CHICAGO_IL",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.85,
+        "longitude": -87.65
       }
     },
     {
@@ -4430,7 +4982,9 @@
         "siteName": "Evansville IN",
         "siteId": "EVANSVILLE_IN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.0,
+        "longitude": -87.6
       }
     },
     {
@@ -4446,7 +5000,9 @@
         "siteName": "Indianapolis IN",
         "siteId": "INDIANAPOLIS_IN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.8,
+        "longitude": -86.15
       }
     },
     {
@@ -4462,7 +5018,9 @@
         "siteName": "Des Moines IA",
         "siteId": "DES_MOINES_IA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.6,
+        "longitude": -93.6
       }
     },
     {
@@ -4478,7 +5036,9 @@
         "siteName": "Topeka KS",
         "siteId": "TOPEKA_KS",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.050000000000004,
+        "longitude": -95.7
       }
     },
     {
@@ -4494,7 +5054,9 @@
         "siteName": "Wichita KS",
         "siteId": "WICHITA_KS",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 37.7,
+        "longitude": -97.35
       }
     },
     {
@@ -4510,7 +5072,9 @@
         "siteName": "Louisville KY",
         "siteId": "LOUISVILLE_KY",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.25,
+        "longitude": -85.75
       }
     },
     {
@@ -4526,7 +5090,9 @@
         "siteName": "New Orleans LA",
         "siteId": "NEW_ORLEANS_LA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 29.95,
+        "longitude": -90.05
       }
     },
     {
@@ -4542,7 +5108,9 @@
         "siteName": "Augusta ME",
         "siteId": "AUGUSTA_ME",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 44.3,
+        "longitude": -69.8
       }
     },
     {
@@ -4558,7 +5126,9 @@
         "siteName": "Bangor ME",
         "siteId": "BANGOR_ME",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 44.8,
+        "longitude": -68.8
       }
     },
     {
@@ -4574,7 +5144,9 @@
         "siteName": "Portland ME",
         "siteId": "PORTLAND_ME",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.65,
+        "longitude": -70.25
       }
     },
     {
@@ -4590,7 +5162,9 @@
         "siteName": "Baltimore MD",
         "siteId": "BALTIMORE_MD",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.3,
+        "longitude": -76.6
       }
     },
     {
@@ -4606,7 +5180,9 @@
         "siteName": "Boston MA",
         "siteId": "BOSTON_MA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 42.35,
+        "longitude": -71.05
       }
     },
     {
@@ -4622,7 +5198,9 @@
         "siteName": "Detroit MI",
         "siteId": "DETROIT_MI",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 42.35,
+        "longitude": -83.05
       }
     },
     {
@@ -4638,7 +5216,9 @@
         "siteName": "Minneapolis MN",
         "siteId": "MINNEAPOLIS_MN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 45.0,
+        "longitude": -93.3
       }
     },
     {
@@ -4654,7 +5234,9 @@
         "siteName": "Jackson MS",
         "siteId": "JACKSON_MS",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.3,
+        "longitude": -90.2
       }
     },
     {
@@ -4670,7 +5252,9 @@
         "siteName": "Cape Girardeau MO",
         "siteId": "CAPE_GIRARDEAU_MO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 37.3,
+        "longitude": -89.5
       }
     },
     {
@@ -4686,7 +5270,9 @@
         "siteName": "New Madrid MO",
         "siteId": "NEW_MADRID_MO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 36.6,
+        "longitude": -89.55
       }
     },
     {
@@ -4702,7 +5288,9 @@
         "siteName": "St Louis MO",
         "siteId": "ST_LOUIS_MO",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.6,
+        "longitude": -90.2
       }
     },
     {
@@ -4718,7 +5306,9 @@
         "siteName": "Omaha NE",
         "siteId": "OMAHA_NE",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.25,
+        "longitude": -96.00000000000001
       }
     },
     {
@@ -4734,7 +5324,9 @@
         "siteName": "Manchester NH",
         "siteId": "MANCHESTER_NH",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.0,
+        "longitude": -71.45
       }
     },
     {
@@ -4750,7 +5342,9 @@
         "siteName": "Trenton NJ",
         "siteId": "TRENTON_NJ",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 40.2,
+        "longitude": -74.75
       }
     },
     {
@@ -4766,7 +5360,9 @@
         "siteName": "Batavia NY",
         "siteId": "BATAVIA_NY",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.0,
+        "longitude": -78.2
       }
     },
     {
@@ -4782,7 +5378,9 @@
         "siteName": "Malone NY",
         "siteId": "MALONE_NY",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 44.85,
+        "longitude": -74.3
       }
     },
     {
@@ -4798,7 +5396,9 @@
         "siteName": "New York NY",
         "siteId": "NEW_YORK_NY",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 40.75,
+        "longitude": -74.0
       }
     },
     {
@@ -4814,7 +5414,9 @@
         "siteName": "Charlotte NC",
         "siteId": "CHARLOTTE_NC",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.25,
+        "longitude": -80.85
       }
     },
     {
@@ -4830,7 +5432,9 @@
         "siteName": "Fargo ND",
         "siteId": "FARGO_ND",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 46.900000000000006,
+        "longitude": -96.8
       }
     },
     {
@@ -4846,7 +5450,9 @@
         "siteName": "Columbus OH",
         "siteId": "COLUMBUS_OH",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.95,
+        "longitude": -83.0
       }
     },
     {
@@ -4862,7 +5468,9 @@
         "siteName": "Sidney OH",
         "siteId": "SIDNEY_OH",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 40.3,
+        "longitude": -84.15
       }
     },
     {
@@ -4878,7 +5486,9 @@
         "siteName": "Youngstown OH",
         "siteId": "YOUNGSTOWN_OH",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.1,
+        "longitude": -80.65
       }
     },
     {
@@ -4894,7 +5504,9 @@
         "siteName": "Elgin OK",
         "siteId": "ELGIN_OK",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 34.8,
+        "longitude": -98.30000000000001
       }
     },
     {
@@ -4910,7 +5522,9 @@
         "siteName": "Oklahoma City OK",
         "siteId": "OKLAHOMA_CITY_OK",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.5,
+        "longitude": -97.5
       }
     },
     {
@@ -4926,7 +5540,9 @@
         "siteName": "Philadelphia PA",
         "siteId": "PHILADELPHIA_PA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 39.95,
+        "longitude": -75.15
       }
     },
     {
@@ -4942,7 +5558,9 @@
         "siteName": "Pittsburg PA",
         "siteId": "PITTSBURG_PA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 40.45,
+        "longitude": -80.0
       }
     },
     {
@@ -4958,7 +5576,9 @@
         "siteName": "Providence RI",
         "siteId": "PROVIDENCE_RI",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 41.8,
+        "longitude": -71.4
       }
     },
     {
@@ -4974,7 +5594,9 @@
         "siteName": "Charleston SC",
         "siteId": "CHARLESTON_SC",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.8,
+        "longitude": -79.95
       }
     },
     {
@@ -4990,7 +5612,9 @@
         "siteName": "Edgemont SD",
         "siteId": "EDGEMONT_SD",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.3,
+        "longitude": -103.85
       }
     },
     {
@@ -5006,7 +5630,9 @@
         "siteName": "Platte SD",
         "siteId": "PLATTE_SD",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.4,
+        "longitude": -98.85
       }
     },
     {
@@ -5022,7 +5648,9 @@
         "siteName": "Sioux Falls SD",
         "siteId": "SIOUX_FALLS_SD",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.550000000000004,
+        "longitude": -96.75
       }
     },
     {
@@ -5038,7 +5666,9 @@
         "siteName": "Chattanooga TN",
         "siteId": "CHATTANOOGA_TN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.05,
+        "longitude": -85.25
       }
     },
     {
@@ -5054,7 +5684,9 @@
         "siteName": "Knoxville TN",
         "siteId": "KNOXVILLE_TN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.95,
+        "longitude": -83.9
       }
     },
     {
@@ -5070,7 +5702,9 @@
         "siteName": "Maryville TN",
         "siteId": "MARYVILLE_TN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.75,
+        "longitude": -84.0
       }
     },
     {
@@ -5086,7 +5720,9 @@
         "siteName": "Memphis TN",
         "siteId": "MEMPHIS_TN",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.15,
+        "longitude": -90.05
       }
     },
     {
@@ -5102,7 +5738,9 @@
         "siteName": "Amarillo TX",
         "siteId": "AMARILLO_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 35.2,
+        "longitude": -101.85
       }
     },
     {
@@ -5118,7 +5756,9 @@
         "siteName": "Dallas TX",
         "siteId": "DALLAS_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.8,
+        "longitude": -96.8
       }
     },
     {
@@ -5134,7 +5774,9 @@
         "siteName": "Houston TX",
         "siteId": "HOUSTON_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 29.75,
+        "longitude": -95.35
       }
     },
     {
@@ -5150,7 +5792,9 @@
         "siteName": "Kermit TX",
         "siteId": "KERMIT_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 31.850000000000005,
+        "longitude": -103.1
       }
     },
     {
@@ -5166,7 +5810,9 @@
         "siteName": "San Antonio TX",
         "siteId": "SAN_ANTONIO_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 29.4,
+        "longitude": -98.5
       }
     },
     {
@@ -5182,7 +5828,9 @@
         "siteName": "Snyder TX",
         "siteId": "SNYDER_TX",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 32.7,
+        "longitude": -100.9
       }
     },
     {
@@ -5198,7 +5846,9 @@
         "siteName": "Burlington VT",
         "siteId": "BURLINGTON_VT",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 44.5,
+        "longitude": -73.2
       }
     },
     {
@@ -5214,7 +5864,9 @@
         "siteName": "Blacksburg VA",
         "siteId": "BLACKSBURG_VA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 37.25,
+        "longitude": -80.4
       }
     },
     {
@@ -5230,7 +5882,9 @@
         "siteName": "Richmond VA",
         "siteId": "RICHMOND_VA",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 37.55,
+        "longitude": -77.45
       }
     },
     {
@@ -5246,7 +5900,9 @@
         "siteName": "Charleston WV",
         "siteId": "CHARLESTON_WV",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 38.35,
+        "longitude": -81.65
       }
     },
     {
@@ -5262,7 +5918,9 @@
         "siteName": "Milwaukee WI",
         "siteId": "MILWAUKEE_WI",
         "region": "Restricted CEUS Set",
-        "regionId": "NRC"
+        "regionId": "NRC",
+        "latitude": 43.05,
+        "longitude": -87.9
       }
     }
   ]
